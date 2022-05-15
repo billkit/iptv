@@ -24,7 +24,7 @@ http://117.148.179.162/PLTV/88888888/224/3221233115/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视A", CCTV13
 http://39.135.49.209:6610/PLTV/88888888/224/3221226985/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视A", CCTV11
-http://39.135.49.209:6610/PLTV/88888888/224/3221226927/1.m3u8?servicetype=1
+http://112.25.47.24/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视备用", CCTV7-B
 http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 
